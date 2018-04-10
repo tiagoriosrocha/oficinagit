@@ -1,0 +1,10 @@
+Crie um novo projeto no Github
+Faça o clone do projeto para uma pasta local
+crie este arquivo na raiz da pasta
+crie uma nova pasta chamada pasta1
+crie um arquivo dentro da pasta chamada teste
+Execute:
+git config --global user.email "seu email"
+git config --global user.name "seu nome"
+
+Faça o primeiro commit
