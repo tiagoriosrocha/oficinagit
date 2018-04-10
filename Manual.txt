@@ -68,3 +68,7 @@ usuário 2: enviar para o remoto
 -----------------------------------------------------------------
 Visualizar a árvore graficamente:
 git log --oneline --graph --color --decorate --all
+
+
+---------------------------
+fiz mais uma alteração no master
