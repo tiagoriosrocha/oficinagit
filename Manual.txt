@@ -8,3 +8,9 @@ git config --global user.email "seu email"
 git config --global user.name "seu nome"
 
 Faça o primeiro commit
+
+
+Altere o nome da pasta criada para "arquivos do primeiro commit"
+Crie uma pasta chamada "arquivos do segundo commit"
+Crie um arquivo txt com algum texto dentro da segunda pasta
+Altere o texto do arquivo Manual.txt
