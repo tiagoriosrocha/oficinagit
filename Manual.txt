@@ -36,5 +36,9 @@ Para enviar as modificações é necessário primeiro um checkout para voltar ao mas
 git checkout master
 git merge novocaminho
 git push origin master
+-----------------------------------------------------------------
+Delete o branch novocaminho: git branch -d novocaminho
 
-
+Altere algum arquivo txt
+faça um novo commit
+envie para o servidor
