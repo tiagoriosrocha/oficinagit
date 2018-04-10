@@ -72,3 +72,9 @@ git log --oneline --graph --color --decorate --all
 
 ---------------------------
 fiz mais uma alteração no master
+
+
+------ 
+Criando um conflito
+Criando um conflito
+Criando um conflito
