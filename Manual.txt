@@ -20,8 +20,8 @@ Faça o segundo commit
 de um push
 ----------------------------------------------------------------
 
-Crie um Branch: git branch novoCaminho
-Acesse o branch criado: git checkout novoCaminho
+Crie um Branch: git branch novocaminho
+Acesse o branch criado: git checkout novocaminho
 Crie uma nova pasta chamada "arquivos do terceiro commit - branch novocaminho"
 Crie um arquivo txt
 Altere o texto do arquivo Manual.txt
@@ -31,5 +31,10 @@ faça o terceiro commit
 crie um novo arquivo txt na última pasta criada e coloque qualquer texto
 
 faça o quarto commit
-de um push
-----------------------------------------------------------------
+
+Para enviar as modificações é necessário primeiro um checkout para voltar ao master, depois o merge com o branch e então o push
+git checkout master
+git merge novocaminho
+git push origin master
+
+
