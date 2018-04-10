@@ -63,3 +63,8 @@ usuário 2: entrar no branch remoto
 usuário 2: fazer um commit
 usuário 2: fazer um merge com o master
 usuário 2: enviar para o remoto
+
+
+-----------------------------------------------------------------
+Visualizar a árvore graficamente:
+git log --oneline --graph --color --decorate --all
