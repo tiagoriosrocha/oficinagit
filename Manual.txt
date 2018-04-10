@@ -8,9 +8,20 @@ git config --global user.email "seu email"
 git config --global user.name "seu nome"
 
 Faça o primeiro commit
+-----------------------------------------------------------------
 
-
-Altere o nome da pasta criada para "arquivos do primeiro commit"
+Altere o nome da pasta criada para "arquivos do segundo commit"
 Crie uma pasta chamada "arquivos do segundo commit"
 Crie um arquivo txt com algum texto dentro da segunda pasta
 Altere o texto do arquivo Manual.txt
+
+Faça o segundo commit
+----------------------------------------------------------------
+
+Crie um Branch: git branch novoCaminho
+Acesse o branch criado: git checkout novoCaminho
+Crie uma nova pasta chamada "arquivos do terceiro commit - branch novocaminho"
+Crie um arquivo txt
+Altere o texto do arquivo Manual.txt
+
+faça o terceiro commit
