@@ -8,6 +8,7 @@ git config --global user.email "seu email"
 git config --global user.name "seu nome"
 
 Faça o primeiro commit
+de um push
 -----------------------------------------------------------------
 
 Altere o nome da pasta criada para "arquivos do segundo commit"
@@ -16,6 +17,7 @@ Crie um arquivo txt com algum texto dentro da segunda pasta
 Altere o texto do arquivo Manual.txt
 
 Faça o segundo commit
+de um push
 ----------------------------------------------------------------
 
 Crie um Branch: git branch novoCaminho
@@ -25,3 +27,9 @@ Crie um arquivo txt
 Altere o texto do arquivo Manual.txt
 
 faça o terceiro commit
+
+crie um novo arquivo txt na última pasta criada e coloque qualquer texto
+
+faça o quarto commit
+de um push
+----------------------------------------------------------------
