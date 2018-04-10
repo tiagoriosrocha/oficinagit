@@ -1,0 +1,52 @@
+Crie um novo projeto no Github
+Faça o clone do projeto para uma pasta local
+crie este arquivo na raiz da pasta
+crie uma nova pasta chamada pasta1
+crie um arquivo dentro da pasta chamada teste
+Execute:
+git config --global user.email "seu email"
+git config --global user.name "seu nome"
+
+Faça o primeiro commit
+de um push
+-----------------------------------------------------------------
+
+Altere o nome da pasta criada para "arquivos do segundo commit"
+Crie uma pasta chamada "arquivos do segundo commit"
+Crie um arquivo txt com algum texto dentro da segunda pasta
+Altere o texto do arquivo Manual.txt
+
+Faça o segundo commit
+de um push
+----------------------------------------------------------------
+
+Crie um Branch: git branch novocaminho
+Acesse o branch criado: git checkout novocaminho
+Crie uma nova pasta chamada "arquivos do terceiro commit - branch novocaminho"
+Crie um arquivo txt
+Altere o texto do arquivo Manual.txt
+
+faça o terceiro commit
+
+crie um novo arquivo txt na última pasta criada e coloque qualquer texto
+
+faça o quarto commit
+
+Para enviar as modificações é necessário primeiro um checkout para voltar ao master, depois o merge com o branch e então o push
+git checkout master
+git merge novocaminho
+git push origin master
+-----------------------------------------------------------------
+Delete o branch novocaminho localmente: git branch -d novocaminho
+Delete o branch novocaminho remotamente: git push origin novocaminho --delete
+
+-----------------------------------------------------------------
+
+A partir de agora testar sincronizar um push enviado por outro usuário através do comando fetch, fazer um merge e enviar para o servidor. dica: fetch + merge = pull
+
+1 - cada usuário faz o clone do projeto
+2 - cada usuário cria um branch
+3 - cada usuário faz modificações
+4 - usuário 1 faz o push
+5 - usuário 2 faz o pull
+6 - usuário 2 faz o push (como sincronizar os branch criados com o master?)
