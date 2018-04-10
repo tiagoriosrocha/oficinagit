@@ -37,6 +37,12 @@ git checkout master
 git merge novocaminho
 git push origin master
 -----------------------------------------------------------------
+Enviar um branch para o servidor, sem definí-lo como master
+git push origin design
+
+Copiando uma branch remota:
+git checkout -t origin/design
+-----------------------------------------------------------------
 Delete o branch novocaminho localmente: git branch -d novocaminho
 Delete o branch novocaminho remotamente: git push origin novocaminho --delete
 
