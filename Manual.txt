@@ -56,3 +56,10 @@ A partir de agora testar sincronizar um push enviado por outro usuário através d
 4 - usuário 1 faz o push
 5 - usuário 2 faz o pull
 6 - usuário 2 faz o push (como sincronizar os branch criados com o master?)
+----------------------------------------------------------------
+
+usuário 2: baxar um branch remoto
+usuário 2: entrar no branch remoto
+usuário 2: fazer um commit
+usuário 2: fazer um merge com o master
+usuário 2: enviar para o remoto
