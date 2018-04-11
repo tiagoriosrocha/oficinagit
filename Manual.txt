@@ -78,3 +78,14 @@ fiz mais uma alteração no master
 Criando um conflito
 Criando um conflito
 Criando um conflito3333
+
+-----------
+
+Listar a diferença dos dois ultimos commits
+git log -p -2
+
+Voltar todos os arquivos para o commit anterior
+git revert codigoCommit
+
+
+
