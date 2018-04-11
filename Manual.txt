@@ -78,6 +78,3 @@ fiz mais uma alteração no master
 Criando um conflito
 Criando um conflito
 Criando um conflito3333
-
------
-Criando um conteúdo para depois voltar para versão anterior
